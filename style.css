@@ -39,11 +39,11 @@ body{
     position: relative;
   }
   .card0 {
-    background: url("img.jpg") center center no-repeat;
+    background: url("https://source.unsplash.com/300x380/?cricket") center center no-repeat;
     background-size: 300px;
   }
   .card0:hover {
-    background: url("img.jpg") left center no-repeat;
+    background: url("https://source.unsplash.com/300x380/?cricket") left center no-repeat;
     background-size: 600px;
   }
   .card0:hover h2 {
