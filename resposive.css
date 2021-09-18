@@ -1,6 +1,18 @@
 @media only screen and (max-width: 360px) {
-    .card{
-        margin-left: -41em;
+    .container{
+        margin-left: -21em;
+    }
+
+  }
+@media only screen and (max-width: 376px) {
+    .container{
+        margin-left: -20em;
+    }
+
+  }
+@media only screen and (max-width: 415px) {
+    .container{
+        margin-left: -19em;
     }
 
   }
